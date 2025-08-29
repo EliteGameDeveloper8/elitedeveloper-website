@@ -6,13 +6,14 @@ We create fun and simple mobile games for everyone to enjoy.
 ---
 
 ## 📱 Our Apps
-- [Brain Teaser](#) – Available on Google Play
+- [Brain Teaser](https://play.google.com/store/apps/details?id=brain.teaser.game.puzzle) – Available on Google Play
 
 ---
 
 ## 🔒 Privacy Policy
 You can view our full privacy policy here:  
-[Privacy Policy](https://elitedeveloper.github.io/privacy-policy.html)
+[Privacy Policy](https://EliteGameDeveloper8.github.io/brain-teaser-privacy/
+)
 
 ---
 
